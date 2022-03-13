@@ -7,7 +7,7 @@
 ---
 ## :framed_picture: Imagem do Projeto
 
-![imagem projeto](https://user-images.githubusercontent.com/89085971/157985419-73ba3299-fff3-4054-a4ab-867f1b496a34.png)
+![imagem-projeto-final](https://user-images.githubusercontent.com/89085971/158063033-2d5c2223-d66b-4c70-b761-6699a38d9f67.png)
 
 ---
 ## Tecnologias utilizadas
