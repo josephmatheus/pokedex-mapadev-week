@@ -1,4 +1,4 @@
-# [PokéDex - MapaDev Week](https://josephmatheus.github.io/projeto-pokedex-mapadev-week/)
+# [PokéDex - MapaDev Week](https://josephmatheus.github.io/pokedex-mapadev-week/)
 ---
 ## :page_facing_up: Sobre o Projeto
 - Este projeto foi criado como parte da MapaDev Week, que foi um evento feito pela [Dev em Dobro](https://github.com/devemdobro), para mostrar a base do HTML, CSS e JavaScript para começar a atuar como desenvolvedor front-end jr.
