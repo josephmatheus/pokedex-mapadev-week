@@ -1,5 +1,12 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
 .listagem {
     max-width: 200px;
+    height: 590px;
+    overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 .listagem .pokemon {
